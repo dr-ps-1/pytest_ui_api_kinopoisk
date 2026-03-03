@@ -1,0 +1,8 @@
+pytest==9.0.2
+selenium==4.39.0
+webdriver-manager==4.0.2
+requests==2.32.5
+allure-pytest==2.15.3
+python-dotenv==1.2.1
+selenium-stealth==1.0.6
+fake-useragent==2.2.0
